@@ -69,3 +69,9 @@ Run the main application file:
 # Example execution command
 java -cp out Main
 ```
+
+## 👨‍💻 Author
+
+**Julien SACKO** | Machine Learning Engineer 
+
+[LinkedIn](https://www.linkedin.com/in/julien-sacko/)
