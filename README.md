@@ -1,4 +1,5 @@
 # 🧱 Team Up! - Collaborative Tiling Game (Java)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 This repository contains a collaborative, turn-based tiling game developed in **Java** using Object-Oriented Programming (OOP) principles. The goal of the game, **Team Up!**, is for a team to efficiently and strategically tile a shared wall according to complex placement rules.
 
